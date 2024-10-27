@@ -1,0 +1,23 @@
+:root {
+    --primary-color: #222222; /* Main background color */
+    --secondary-color: #959595; /* Text color */
+    --hover-color: white; /* Hover background color */
+    --active-link-color: white; /* Active link color */
+    --active-link-bg-color: black;
+    --dropdown-bg-color: white; /* Background color for dropdown */
+    --dropdown-hover-bg-color: lightgray; /* Hover color for dropdown items */
+    --search-bg-color: rgb(240, 240, 240); /* Background color for search input */
+    --search-hover-bg-color: lightgray; /* Hover color for search button */
+    --border-color: black; /* Border color for dropdown */
+
+    /* Spacing */
+    --spacing-small: 5px;
+    --spacing-medium: 15px;
+    --spacing-large: 20px;
+
+    /* Sizing */
+    --header-height: 60px;
+    --button-height: 34px;
+    --button-width: 70px;
+    --search-width: 196px;
+}
