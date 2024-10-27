@@ -3,10 +3,10 @@
 
 @import url('Layout/layout.css');
 
-@import url('Components/logo-image.css');
-@import url('Components/header.css');
-@import url('Components/navigation.css');
-@import url('Components/services.css');
-@import url('Components/dropdown.css');
-@import url('Components/button.css');
-@import url('Components/input.css');
+@import url('Components/HeaderComponents/button.css');
+@import url('Components/HeaderComponents/dropdown.css');
+@import url('Components/HeaderComponents/header.css');
+@import url('Components/HeaderComponents/input.css');
+@import url('Components/HeaderComponents/logo-image.css');
+@import url('Components/HeaderComponents/navigation.css');
+@import url('Components/HeaderComponents/services.css');
