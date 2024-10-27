@@ -1,0 +1,32 @@
+.logo {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    margin-right:0.7rem;
+    font-size: 20px;
+}
+
+.navigation, .active {
+    display: flex;
+    font-size: 16px;
+    height: 50px;
+    width: 75px;
+    justify-content: center;
+    align-items: center;
+    margin:var(--spacing-small);
+}
+
+.logo, .navigation {
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
+.logo:hover, .navigation:hover {
+    color: var(--hover-color);
+}
+
+.active {
+    color: var(--active-link-color);
+    background-color: var(--active-link-bg-color);
+    padding: 30px;
+}

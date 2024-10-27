@@ -1,0 +1,11 @@
+header{
+    background-color: var(--primary-color);
+    height: var(--header-height);
+}
+
+.header-content {
+    display: flex;
+    color: var(--secondary-color);
+    align-items: center;
+    font-size: 18px;
+}
