@@ -6,8 +6,9 @@
     --active-link-bg-color: black;
     --dropdown-bg-color: #eeeeee; /* Background color for dropdown */
     --dropdown-text-color: black; /* Hover color for dropdown items */
-    --search-bg-color: rgb(240, 240, 240); /* Background color for search input */
-    --search-hover-bg-color: black; /* Hover color for search button */
+    --service-bg-color: black;
+    --search-bg-color: white; /* Background color for search input */
+    --search-hover-bg-color: #eeeeee; /* Hover color for search button */
     --border-color: black; /* Border color for dropdown */
 
     /* Spacing */
