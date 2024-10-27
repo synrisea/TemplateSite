@@ -1,0 +1,23 @@
+.services {
+    position: relative;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: var(--header-height);
+    width: 96px;
+    font-size: 14px;
+    margin:10px;
+    cursor: pointer;
+}
+
+.services:hover {
+    background-color: var(--search-hover-bg-color);
+    color: var(--active-link-color);
+}
+
+.services:hover .dropdown 
+{
+    display: block;
+}
