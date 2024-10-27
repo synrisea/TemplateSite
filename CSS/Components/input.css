@@ -1,0 +1,17 @@
+input.search-input {
+    margin-left: auto;
+    height: 34px;
+    width: 196px;
+    border-radius: 4px;
+    border: none;
+    background-color: white;
+    padding-left: 8px; /* Padding to move text to the right */
+    transition: box-shadow 0.2s ease;
+    margin-right:5px;
+}
+
+/* Focus styles */
+input.search-input:focus {
+    outline: 1px solid #74b0ff;
+    box-shadow: 0 0 9px #74b0ff; /* Thin blue shadow for focus effect */
+}

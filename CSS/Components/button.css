@@ -1,0 +1,13 @@
+button.search {
+    height: 34px;
+    border-radius: 4px;
+    width: 70px;
+    margin-right: 20px;
+    background-color: var(--search-bg-color);
+    font-size: 14px;
+}
+
+button.search:hover {
+    cursor: pointer;
+    background-color: var(--search-hover-bg-color);
+}

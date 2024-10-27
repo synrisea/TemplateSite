@@ -13,7 +13,7 @@
 }
 
 .services:hover {
-    background-color: var(--search-hover-bg-color);
+    background-color: var(--service-bg-color);
     color: var(--active-link-color);
 }
 
