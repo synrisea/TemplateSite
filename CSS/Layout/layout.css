@@ -1,0 +1,33 @@
+html,
+body {
+    min-width: 500px;
+}
+
+body {
+    display: grid;
+    grid-template-rows: 51px 1fr 120px;
+}
+
+main {
+    display: grid;
+    grid-auto-rows: auto;
+}
+
+header,
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+div.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+nav.header-content,
+div.footer-content,
+div.main-content {
+    height: 100%;
+    width: 100%;
+    max-width: 1170px;
+}
