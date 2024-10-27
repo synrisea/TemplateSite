@@ -1,0 +1,9 @@
+root = true
+
+[*]
+indent_style = space   # Использовать пробелы для отступов
+indent_size = 4        # Ширина отступов – 4 пробела
+end_of_line = lf       # Перенос строки – LF
+charset = utf-8        # Кодировка файла – UTF-8
+trim_trailing_whitespace = true # Удаление пробелов в конце строк
+insert_final_newline = true
