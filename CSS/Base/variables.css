@@ -18,6 +18,14 @@
     --engage-button-border-color: #3470ac;
     --engage-button-hover-bg-color: #1e4d79;
 
+    --collaboration-bg-color: white;
+    --collaboration-font-color: black;
+    --collaboration-section-color: #707981;
+    --collaboration-text-color: #959595;
+    --collaboration-link-color: #377ab1;
+    --collaboration-link-hover-color: #20547b;
+    
+
     /* Spacing */
     --spacing-small: 5px;
     --spacing-medium: 15px;

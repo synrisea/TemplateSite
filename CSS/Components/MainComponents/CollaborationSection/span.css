@@ -1,0 +1,20 @@
+.div-collaboration span
+{
+    display: flex;
+    color: var(--collaboration-font-color);
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 13px;
+}
+.div-collaboration 
+{
+    display: flex;
+    box-sizing: border-box;
+    width: 700px;
+    height: 300px;
+}
+
+.div-collaboration span:has(img) {
+    gap: 30px;
+}

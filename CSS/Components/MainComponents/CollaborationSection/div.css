@@ -1,0 +1,9 @@
+.div-collaboration
+{
+    display: flex;
+    color: var(--collaboration-font-color);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 13px;
+}

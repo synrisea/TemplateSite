@@ -10,8 +10,19 @@
 @import url('Components/HeaderComponents/logo-image.css');
 @import url('Components/HeaderComponents/navigation.css');
 @import url('Components/HeaderComponents/services.css');
+
 @import url('Components/MainComponents/EngageSection/container.css');
 @import url('Components/MainComponents/EngageSection/div.css');
 @import url('Components/MainComponents/EngageSection/h1.css');
 @import url('Components/MainComponents/EngageSection/p.css');
 @import url('Components/MainComponents/EngageSection/button.css');
+
+@import url('Components/MainComponents/CollaborationSection/container.css');
+@import url('Components/MainComponents/CollaborationSection/div.css');
+@import url('Components/MainComponents/CollaborationSection/h2.css');
+@import url('Components/MainComponents/CollaborationSection/img.css');
+@import url('Components/MainComponents/CollaborationSection/link.css');
+@import url('Components/MainComponents/CollaborationSection/p.css');
+@import url('Components/MainComponents/CollaborationSection/section.css');
+@import url('Components/MainComponents/CollaborationSection/span.css');
+

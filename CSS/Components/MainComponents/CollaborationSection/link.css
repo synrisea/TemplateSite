@@ -1,0 +1,16 @@
+.link-collaboration
+{
+    color: var(--collaboration-link-color);
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 13px;
+}
+
+.link-collaboration:hover
+{
+    text-decoration: underline;
+    color: var(--collaboration-link-hover-color)
+}

@@ -1,0 +1,9 @@
+.img-collaboration {
+    display: block;
+    border:0;
+    border-radius: 6px;
+    width: 700px;
+    height: 300px;
+    max-width: 100%;
+    box-sizing: border-box;
+}
