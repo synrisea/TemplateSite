@@ -1,8 +1,8 @@
 .container-collaboration {
     display: flex;
     background: var(--collaboration-bg-color);
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .img-container {
@@ -15,7 +15,7 @@
 .img-container > div {
     flex: 1 1 300px;
     max-width: 700px; 
-    min-width: 300px; /* минимальная ширина для сжатия */
+    min-width: 300px;
 }
 
 .button-container {
