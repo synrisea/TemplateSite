@@ -10,3 +10,8 @@
 @import url('Components/HeaderComponents/logo-image.css');
 @import url('Components/HeaderComponents/navigation.css');
 @import url('Components/HeaderComponents/services.css');
+@import url('Components/MainComponents/EngageSection/container.css');
+@import url('Components/MainComponents/EngageSection/div.css');
+@import url('Components/MainComponents/EngageSection/h1.css');
+@import url('Components/MainComponents/EngageSection/p.css');
+@import url('Components/MainComponents/EngageSection/button.css');

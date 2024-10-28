@@ -1,0 +1,6 @@
+.container-engage
+{
+    display:flex;
+    background:var(--engage-bg-color);
+    margin-top: -1px;
+}

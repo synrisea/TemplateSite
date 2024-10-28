@@ -11,6 +11,13 @@
     --search-hover-bg-color: #eeeeee; /* Hover color for search button */
     --border-color: black; /* Border color for dropdown */
 
+    --engage-bg-color: #9acd32;
+    --engage-font-color : #adff33;
+    --engage-button-bg-color: #347ab6;
+    --engage-button-text-color: white;
+    --engage-button-border-color: #3470ac;
+    --engage-button-hover-bg-color: #1e4d79;
+
     /* Spacing */
     --spacing-small: 5px;
     --spacing-medium: 15px;

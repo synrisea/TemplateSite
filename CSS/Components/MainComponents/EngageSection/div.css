@@ -1,0 +1,9 @@
+.div-engage
+{
+    display: flex;
+    color: var(--engage-font-color);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 13px;
+}
