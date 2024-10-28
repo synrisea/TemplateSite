@@ -1,7 +1,7 @@
 .p-engage {
     font-size: 21px;
     text-align: center;
-    margin: 0 auto; /* Центрирование текста */
-    max-width: 1170px; /* Ограничение ширины для удобного переноса */
+    margin: 0 auto;
+    max-width: 1170px;
     line-height: 1.45;
 }
