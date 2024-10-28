@@ -1,0 +1,12 @@
+.button-CS
+{
+    height: 34px;
+    border-radius: 4px;
+    width: auto;
+    padding:7px;
+    margin-right: 20px;
+    color: var(--CS-button-text-color);
+    background-color: white;
+    font-size: 14px;
+    margin: 12px auto 0;
+}

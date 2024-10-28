@@ -26,6 +26,12 @@
     --collaboration-link-hover-color: #20547b;
     
 
+    --CS-bg-color:#daa521;
+    --CS-font-color:black;
+    --CS-button-text-color: black;
+    --CS-button-color: #fffeff;
+    --CS-button-hover-color:#d4d4d4;
+
     /* Spacing */
     --spacing-small: 5px;
     --spacing-medium: 15px;

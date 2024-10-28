@@ -1,0 +1,9 @@
+.div-CS
+{
+    display: flex;
+    color: var(--CS-font-color);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 13px;
+}
