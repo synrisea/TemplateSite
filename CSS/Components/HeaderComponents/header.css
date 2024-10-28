@@ -1,11 +1,17 @@
-header{
+header 
+{
     background-color: var(--primary-color);
     height: var(--header-height);
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
-.header-content {
+.header-content 
+{
     display: flex;
     color: var(--secondary-color);
     align-items: center;
     font-size: 16px;
+    padding: 0 20px;
 }

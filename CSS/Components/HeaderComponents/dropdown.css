@@ -8,8 +8,8 @@
     width: 160px;
     padding-top: 7px;
     padding-bottom: 7px;
+    background-color: white;
 }
-
 
 .dropdown-content {
     color: var(--dropdown-text-color);
