@@ -32,12 +32,15 @@
     --CS-button-color: #fffeff;
     --CS-button-hover-color:#d4d4d4;
 
-    /* Spacing */
+    --footer-bg-color: white;
+    --footer-text-color: #959595;
+    --footer-link-color: #377ab1;
+    --footer-link-hover-color: #20547b;
+
     --spacing-small: 5px;
     --spacing-medium: 15px;
     --spacing-large: 20px;
 
-    /* Sizing */
     --header-height: 50px;
     --button-height: 34px;
     --button-width: 70px;

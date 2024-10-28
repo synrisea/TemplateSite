@@ -1,0 +1,10 @@
+.footer-link {
+    text-decoration: none;
+    color: var(--footer-link-color);
+    font-size:15px;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+    color: var(--footer-link-hover-color);
+}
